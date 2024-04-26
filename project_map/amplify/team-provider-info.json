@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mapapp-dev-165cf-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423166744:role/amplify-mapapp-dev-165cf-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423166744:role/amplify-mapapp-dev-165cf-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-mapapp-dev-165cf-deployment",
+      "UnauthRoleName": "amplify-mapapp-dev-165cf-unauthRole",
+      "StackName": "amplify-mapapp-dev-165cf",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:637423166744:stack/amplify-mapapp-dev-165cf/3b5b6a80-03b7-11ef-9961-0ac94248f0c1",
+      "AmplifyAppId": "d2t6i9kvnwmjv2"
+    }
+  }
+}
